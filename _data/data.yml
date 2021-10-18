@@ -7,186 +7,211 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Oleksii Tarasiuk
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: oleksii.tarasiuk@gmail.com
+    phone: +38(063)471-37-68
+    linkedin: tigeral
+    github: tigeral
+    bitbucket: TigerAl
+    twitter: '@tiger_al'
+    stack-overflow: 2622462/tigeral # Number/Username
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Ukrainian
+        level: Fluent
+
+      - idiom: Russian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: DIY electronics
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Overall 9 years of work experience in different areas (JavaEE, game development for Java2ME platform, Social
+      Network Systems and iPhone/iPad devices).
+
+      Expertise in Java, Python and JavaScript programming.
+
+      DevOps relative skills and knowledge (Linux OS command-line tools, networking, shell scripting, tools crafting,
+      Build&Release tools).
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Master’s degree in Computer Science
+      university: V.N. Karazin Kharkiv National University
+      time: 2003 – 2008
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software developer/QA-automation
+      time: December 2020 - present
+      company: Waverley Software
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        This is a hardware testing project. I am developing testing tools and doing manual testing work.
+
+        The main tool that I am developing here is a multiplatform desktop tool written on Java (JavaFX) that measure
+        performance of a target device connected to a host (Windows/Linux/Mac OS).
+
+        Other tools were written on Python, C++ and various shell scripts.
+    - role: Senior Java backend developer
+      time: March 2015 - November 2020
+      company: Waverley Software
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        This project was a SAAS solution for building a security/alarm or a smart home installations.
+        I was a member of a distributed development team with three offices in USA, in Romania and in Ukraine.
+        Our solution has complex architecture with multiple web servers, device gateways, video streaming servers,
+        databases, message brokers, mobile clients, REST APIs, etc.
+
+        Technologies: Spring MVC + JSP, Amazon Web Services, Hibernate, OracleSQL DB, RabbitMQ, Git, Maven, Tomcat,
+        JIRA, Stash, Jenkins.
+
+        Project: AgriLedger
+
+        Description: a SAAS ledger solution + mobile client for small agricultural co-operatives. Each ledger record SHA1 checksum is registering in blockchain to prevent falsifications.
+    - role: Full-stack developer
+      time: November 2017 - January 2018
+      company: Waverley Software
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        This was a small part-time project to develop a SAAS ledger solution + mobile client for small agricultural
+        co-operatives. Each ledger record SHA1 checksum is registering in blockchain to prevent falsifications.
+        I created a microservice application with REST API to store data in MultiChain blockchain.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        Technologies: Python Flask, MultiChain server app, Twitter Bootstrap + AngularJS for Multichain management app.
+    - role: Senior Java developer
+      time: March 2014 – February 2015
+      company: Ciklum/Symmetrics/CGI
+      details: |
+        This was an e-commerce web application (shopping cart checkout wizard) based on a Hybris framework.
+        Application developed by a distributed team in Kharkiv and Düsseldorf (Germany) and integrated with a different
+        external services (SSO, UAG, etc.) which are developed by other teams.
+        Agile development process, with a daily conference calls with a Düsseldorf team.
+        Multiple test environments with an SSH access. CI process is provided by Bamboo build server with a limited
+        number of JUnit tests. Manual testing by a single QA engineer.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        My role: senior Java developer (planning, estimation, implementation, code reviews).
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        Technologies: Hybris, Spring MVC, JSP, Git, Ant, Maven, Tomcat 6, JIRA, Bamboo, Crucible, JMeter, ssh.
+    - role: Java developer on the project maintenance
+      time: April 2013 – March 2014
+      company: TEAM International
+      details: |
+        This was a 15+ years old enterprise level app for recruitment and staffing organizations.
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        The application is highly configurable, consists from many different parts, implemented in mix of different
+        technologies including Java applets, JSP/Java servlets, connecting to external web-services and server-side
+        applications and its own compilable language for business scenarios.
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        Technologies: Java applets, Java servlets, JSP, HTML+JavaScript, MS SQL, Surround SCM, Mantis, TestTrackPro.
+    - role: Java client-side developer
+      time: September 2012 – March 2013
+      company: TEAM International
+      details: |
+        We were developing an enterprise level application with GWTP + UIBinder + HTML/JavaScript on client side.
+        Developers team was divided to 3 sub teams: UI, BL(Business Logic), DB. Interaction between teams was task based.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        Technologies: GWTP + UIBinder + HTML/JavaScript, Oracle SQL, Hibernate, Spring, JUnit, Maven, Tomcat, Git,
+        Redmine, Jenkins, Crucible.
+    - role: Java full-stack developer
+      time: January 2012 – September 2012
+      company: GlobalLogic
+      details: |
+        We were developing a SAAS solution for communication provider companies to manage technical service workers
+        tasks and reports.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        Technologies: GWT, MongoDB, Morphia, Spring, Hibernate, JUnit, Ant, Tomcat remote debugging, JIRA.
+    - role: Software developer
+      time: January 2010  – December 2011
+      company: Gameloft
+      details: |
+        I was involved into four video games development process with various tech-stack and roles.
+
+        Project: Demo team games development
+
+        Description: reduce functional of full version of games and build demo versions of those games
+
+        My role: lead programmer in a small group (3 developers per project)
+
+        Technologies: C++, ObjectiveC languages, FlashCS with action script trough GameSwf. Used MS Visual Studio and
+        XCode (3.2 and 4 versions) IDE tools.
+
+
+        Project: GreenFarm
+
+        Description: GreenFarm is an casual multiplayer online game which was integrated into
+        different social networks (Facebook, Tuenti, Hi5, Orkut, Mobage, StudyVZ, CyWorld, etc.). This project has a
+        pretty complex structure with different development and Live servers. It was developed by a large developers group (about 20 developers only in Kharkiv studio) involved different studios from different parts of world.
+
+        My role: Social Network Systems developer
+
+        Responsibilities and Key Accomplishments:
+         - Work with all components of the development and publication process.
+         - Sometime play a LeadDeveloper and ProducerAssistant role.
+         - Collaborated inside of pretty large development team (about 40-members size).
+         - Continuous work with tightly populated game servers.
+         - Long-term support and features development.
+
+        Technologies: ActionScript/Flex, C++ languages using such development tools like FlashDeveloper, MS Visual Studio Express 2008, FlashCS4, SVN, Putty.
+
+
+        Project: Skeeball, Fast and Furious5 (partially)
+
+        Description: Skeeball is simulator from a real world’s arcade game with the same name implemented with
+        a 3D physical engine and pseudo 3D graphic engine.
+
+        Fast and Furious 5 is a racing arcade game.
+
+        My role: Java2ME developer
+
+        Responsibilities and Key Accomplishments:
+         - Create a hi optimized 3D physics engine on FixedPoint ariphmetics.
+         - Design a physical model of arcade machine using 3dsMax tool.
+         - Create a 3dsMAX to internal binary format converter tool using MaxScript language.
+         - Participated in all steps of game development from begin to publish a release version. Game was created by an only 2 programmers.
+         - Play a LeadDeveloper role on Fast and Furious 5 project until was transferred to different department.
+
+        Technologies: Java, MAXScript, Eclipse, 3DMAX
+    - role: Junior Java developer
+      time: June 2008 – November 2008
+      company: TeamDev
+      details: |
+        I developed components for an open-source library of JSF components (OpenFaces) and a Mercurial CVS integration
+        plugin for the TeamCity build server.
+
+        Technologies: JSF, Java, HTML, CSS, JavaScript, JUnit, IntelliJ IDEA, Apache Tomcat, SVN, Jira, TeamCity
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java & Spring
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python & Flask
+        level: 70%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: JavaScript
         level: 60%
 
+      - name: HTML5 & CSS
+        level: 60%
+
+      - name: C++ & Embedded DIY solutions
+        level: 50%
+
+      - name: Shell scripts
+        level: 60%
+
+      - name: Graphics 3D/2D modelling tools
+        level: 40%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Theme designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
