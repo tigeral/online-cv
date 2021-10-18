@@ -148,18 +148,20 @@ experiences:
 
         Description: GreenFarm is an casual multiplayer online game which was integrated into
         different social networks (Facebook, Tuenti, Hi5, Orkut, Mobage, StudyVZ, CyWorld, etc.). This project has a
-        pretty complex structure with different development and Live servers. It was developed by a large developers group (about 20 developers only in Kharkiv studio) involved different studios from different parts of world.
+        pretty complex structure with different development and Live servers. It was developed by a large developers
+        group (about 20 developers only in Kharkiv studio) involved different studios from different parts of world.
 
         My role: Social Network Systems developer
 
         Responsibilities and Key Accomplishments:
-         - Work with all components of the development and publication process.
-         - Sometime play a LeadDeveloper and ProducerAssistant role.
-         - Collaborated inside of pretty large development team (about 40-members size).
-         - Continuous work with tightly populated game servers.
-         - Long-term support and features development.
+        - Work with all components of the development and publication process.
+        - Sometime play a LeadDeveloper and ProducerAssistant role.
+        - Collaborated inside of pretty large development team (about 40-members size).
+        - Continuous work with tightly populated game servers.
+        - Long-term support and features development.
 
-        Technologies: ActionScript/Flex, C++ languages using such development tools like FlashDeveloper, MS Visual Studio Express 2008, FlashCS4, SVN, Putty.
+        Technologies: ActionScript/Flex, C++ languages using such development tools like FlashDeveloper, MS Visual
+        Studio Express 2008, FlashCS4, SVN, Putty.
 
 
         Project: Skeeball, Fast and Furious5 (partially)
@@ -172,11 +174,11 @@ experiences:
         My role: Java2ME developer
 
         Responsibilities and Key Accomplishments:
-         - Create a hi optimized 3D physics engine on FixedPoint ariphmetics.
-         - Design a physical model of arcade machine using 3dsMax tool.
-         - Create a 3dsMAX to internal binary format converter tool using MaxScript language.
-         - Participated in all steps of game development from begin to publish a release version. Game was created by an only 2 programmers.
-         - Play a LeadDeveloper role on Fast and Furious 5 project until was transferred to different department.
+        - Create a higly optimized 3D physics engine on FixedPoint ariphmetics.
+        - Design a physical model of arcade machine using 3dsMax tool.
+        - Create a 3dsMAX to internal binary format converter tool using MaxScript language.
+        - Participated in all steps of game development from begin to publish a release version.
+        - Play a LeadDeveloper role on Fast and Furious 5 project until was transferred to different department.
 
         Technologies: Java, MAXScript, Eclipse, 3DMAX
     - role: Junior Java developer
